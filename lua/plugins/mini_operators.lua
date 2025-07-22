@@ -1,6 +1,4 @@
 return {
     "echasnovski/mini.operators",
-    opts = {
-        repplace = {}
-    }
+    opts = { repplace = {} }
 }
