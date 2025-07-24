@@ -1,5 +1,6 @@
 {
   "flash.nvim": { "branch": "main", "commit": "3c942666f115e2811e959eabbdd361a025db8b63" },
   "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
-  "mini.operators": { "branch": "main", "commit": "f6945e0655ba0715a469dfa4ebdd6039d4b56658" }
+  "mini.operators": { "branch": "main", "commit": "f6945e0655ba0715a469dfa4ebdd6039d4b56658" },
+  "nvim-surround": { "branch": "main", "commit": "8dd9150ca7eae5683660ea20cec86edcd5ca4046" }
 }
